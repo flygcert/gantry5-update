@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<extensionset name="Gantry 5" description="Gantry 5 Updates">
+    <extension
+		name="Gantry 5"
+		description="Gantry 5 Framework"
+		element="pkg_gantry5"
+		type="package"
+		client="site"
+		version="5.6.1"
+		detailsurl="https://raw.githubusercontent.com/flygcert/gantry5-update/refs/heads/main/pkg_gantry5.xml"
+	/>
+</extensionset>
